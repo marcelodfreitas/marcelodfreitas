@@ -1,5 +1,7 @@
-# Buenas tchê ☕
-## Marcelo L Freitas aqui!! 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcelodfreitas&show_icons=true&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcelodfreitas&layout=compact&theme=dark)](https://github.com/marcelodfreitas/github-readme-stats)
+
+# Buenas tchê,  Marcelo L Freitas aqui!! 
 - Sou músico 🎵
 - Cristão ✝️
 - Apaixonado por tecnologia 👨🏻‍💻
