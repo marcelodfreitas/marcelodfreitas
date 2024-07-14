@@ -59,26 +59,3 @@ const marcelolfreitas = {
 <div>
 <br>
 
-<h3>🔍 Fun facts:</h3>
-
-- Follow me in the Rocketseat community: Pleiterson Amorim 🚀
-
-## Minhas estatísticas de contribuição no GitHub
-
-![Snake animation](https://github.com/marcelodfreitas/marcelodfreitas/blob/output/github-contribution-grid-snake.svg)
-
-
-<!-- <p align="center"><img src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1596034333343.png" alt="myoctocat" height="300" width="300"></p> -->
-
-<!--
-**Pleiterson/Pleiterson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 😄 Pronouns: ...
--->
-
