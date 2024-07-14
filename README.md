@@ -63,7 +63,7 @@ const marcelolfreitas = {
 
 - Follow me in the Rocketseat community: Pleiterson Amorim 🚀
 
-![Snake animation](https://github.com/marcelodfreitas/marcelodfreitas/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/marcelodfreitas/marcelodfreitas/blob/output/github-contribution-grid-snake.svg)
 
 <!-- <p align="center"><img src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1596034333343.png" alt="myoctocat" height="300" width="300"></p> -->
 
