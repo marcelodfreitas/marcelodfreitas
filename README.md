@@ -12,41 +12,9 @@
 
 
 <!-- Badges session -->
-<p><img src="https://profile-counter.glitch.me/marcelodfreitas/count.svg"/></p>
-<a href="https://www.instagram.com/marcelodfreitaas/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="https://discord.gg/AnTPddYA" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-<a href = "mailto:marcelo.lempek@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://wa.me/5551983117180" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
-<a href="https://www.youtube.com/channel/UC8oKgdIYiW7P56iDXOAAp3A" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-<br>
-<br>
-
-<div align="center">
-  <a href="https://github.com/marcelodfreitas">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcelodfreitas&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=marcelodfreitas&layout=compact&langs_count=15&theme=tokyonight" />
-</div>
-
-##
-
 <h3>A little more about me...</h3>
 
-```javascript
-const marcelolfreitas = {
-  code: ['HTML', 'CSS', 'JavaScript', 'TypeScript'],
-  certifications: [],
-  technologies: {
-    tools: ['Node.js', 'npm', 'git', 'SAAS', 'FlutterFlow'],
-    mobile: [],
-    databases: [],
-    ides: ['VS Code', 'Visual Studio'],
-  },
-  methodologies: [],
-  interest: ['Python', 'Bootstrap'],
-  otherCodes: []
-}
-```
+
 
 <div style="display: inline_block"><br>
   <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" title="HTML5" height="30" width="40"/>
@@ -58,4 +26,18 @@ const marcelolfreitas = {
   <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" title="Git" height="30" width="40"/>
 <div>
 <br>
+  
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=marcelodfreitas&label=Profile%20views&color=0e75b6&style=flat" alt="marcelodfreitas" /> </p>
+
+- 🔭 Atualmente estou trabalhando no [Tindra](https://github.com/marcelodfreitas/TINDRA)
+
+<h3 align="left">Conecte-se comigo:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/markfreitaas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="markfreitaas" height="30" width="40" /></a>
+<a href="https://fb.com/omarcelofreitas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="omarcelofreitas" height="30" width="40" /></a>
+<a href="https://instagram.com/omarkfreitas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="omarkfreitas" height="30" width="40" /></a>
+</p>
+
+
+<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=marcelodfreitas&show_icons=true&locale=en" alt="marcelodfreitas" /></p>
 
