@@ -5,7 +5,7 @@
 
 <!--About session-->
 <h3>Hi, I'm Marcelo Freitas! Welcome to my GitHub 😁</h3>
-<span><em>Student FullStack Developer and NoCode</em></span><br>
+<span><em>Full Stack Developer in Training</em></span><br>
 <span><em>Full Stack Freelance Developer</em></span>
 <br><br>
 <p>I was born and raised in Canoas - RS, where I still live today. Husband, communicative, proactive and cheerful, person who values ​​simple and humble things. I love being with my family and friends. I like playing the guitar and I'm passionate about cars, motorcycles and music. I always look for time to be with my family.</p>
