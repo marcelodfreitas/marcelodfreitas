@@ -4,18 +4,18 @@
 
 ### Full Stack Developer · React · Next.js · TypeScript · Node.js
 
-Building modern web applications with a focus on **clean architecture, usability and real-world solutions.**
+Building modern web applications focused on **clean architecture, usability and real-world solutions.**
 
 <br />
 
 <a href="https://marcelo-freitas-portfolio.vercel.app/">
   <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
-
+&nbsp;
 <a href="https://www.linkedin.com/in/markfreitaas/">
   <img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-
+&nbsp;
 <a href="https://github.com/marcelodfreitas">
   <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" />
 </a>
@@ -30,21 +30,25 @@ Building modern web applications with a focus on **clean architecture, usability
 
 I'm a **Full Stack Developer** focused on building web applications that solve practical problems and turn ideas into functional products.
 
-My main experience is with the **React / Next.js / TypeScript ecosystem**, combined with Node.js, REST APIs, PostgreSQL and Supabase.
+My main experience is within the **React / Next.js / TypeScript ecosystem**, combined with Node.js, REST APIs, PostgreSQL and Supabase.
 
-I'm particularly interested in:
+I enjoy working across the full development cycle, from understanding a problem and designing the solution to building, testing and deploying the final product.
 
-* Building scalable and maintainable web applications
+### What I focus on
+
+* Scalable and maintainable web applications
 * Product-oriented development
-* Backend architecture and APIs
+* Backend architecture and REST APIs
 * Database design and integration
 * Responsive and accessible interfaces
 * Turning business requirements into software
 
 Currently, I'm deepening my knowledge in **software architecture, backend development and scalable application design**.
 
-📍 Canoas, Rio Grande do Sul, Brazil
-💼 Open to **Junior Full Stack / Software Developer opportunities**
+<br />
+
+📍 **Canoas, Rio Grande do Sul, Brazil**
+💼 **Open to Junior Full Stack / Software Developer opportunities**
 
 ---
 
@@ -59,7 +63,7 @@ Currently, I'm deepening my knowledge in **software architecture, backend develo
 <img src="https://img.shields.io/badge/JavaScript-111827?style=flat-square&logo=javascript&logoColor=F7DF1E" />
 <img src="https://img.shields.io/badge/HTML5-111827?style=flat-square&logo=html5&logoColor=E34F26" />
 <img src="https://img.shields.io/badge/CSS3-111827?style=flat-square&logo=css3&logoColor=1572B6" />
-<img src="https://img.shields.io/badge/Tailwind-111827?style=flat-square&logo=tailwindcss&logoColor=06B6D4" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-111827?style=flat-square&logo=tailwindcss&logoColor=06B6D4" />
 </p>
 
 ### Backend & Database
@@ -87,24 +91,28 @@ Currently, I'm deepening my knowledge in **software architecture, backend develo
 
 **3D Printing Management SaaS**
 
-A management platform designed for 3D-printing businesses, covering the workflow from quotation to delivery.
+A management platform designed for 3D-printing businesses, covering the workflow from **quotation to delivery**.
 
-**Includes**
+The application brings operational, production and financial workflows together in a single platform.
+
+**Key features**
 
 * Customer and product management
-* Quotations and order workflow
-* Production management
-* Printers and filament control
-* Financial workflow
+* Quotations and order management
+* Production workflow
+* Printer and filament management
+* Financial control
 * PDF generation
 * Authentication
 * Responsive desktop and mobile interfaces
 
-**Stack**
+**Built with**
 
 `Next.js` · `React` · `TypeScript` · `Tailwind CSS` · `Supabase` · `PostgreSQL`
 
-<a href="https://github.com/marcelodfreitas/printflow_manager">View repository →</a>
+<a href="https://github.com/marcelodfreitas/printflow_manager">
+  View repository →
+</a>
 
 ---
 
@@ -112,11 +120,11 @@ A management platform designed for 3D-printing businesses, covering the workflow
 
 **Local Services Marketplace**
 
-A platform designed to connect service providers with communities such as condominiums, churches, clubs and associations.
+A platform designed to connect **service providers and communities**, including condominiums, churches, clubs and associations.
 
-The project focuses on creating a simple digital environment where users can discover local professionals and contact them directly.
+The project focuses on making it simple for users to discover local professionals and contact them directly.
 
-**Highlights**
+**Key features**
 
 * Authentication and user management
 * Service provider profiles
@@ -127,11 +135,13 @@ The project focuses on creating a simple digital environment where users can dis
 * Row Level Security
 * Supabase Storage
 
-**Stack**
+**Built with**
 
 `Next.js` · `React` · `TypeScript` · `Tailwind CSS` · `Supabase` · `PostgreSQL`
 
-<a href="https://github.com/marcelodfreitas/ConectaE">View repository →</a>
+<a href="https://github.com/marcelodfreitas/ConectaE">
+  View repository →
+</a>
 
 ---
 
@@ -139,11 +149,15 @@ The project focuses on creating a simple digital environment where users can dis
 
 ### Portfolio
 
-My personal developer portfolio, built to present my work, technical skills and projects.
+My personal developer portfolio showcasing my projects, technical skills and experience.
 
 `Next.js` · `React` · `TypeScript` · `CSS`
 
-<a href="https://github.com/marcelodfreitas/portfolio">View repository →</a>
+<a href="https://github.com/marcelodfreitas/portfolio">
+  View repository →
+</a>
+
+<br />
 
 ### Atmos
 
@@ -151,43 +165,39 @@ A modern web application project exploring the Next.js ecosystem and contemporar
 
 `Next.js` · `React` · `TypeScript`
 
-<a href="https://github.com/marcelodfreitas/atmos">View repository →</a>
+<a href="https://github.com/marcelodfreitas/atmos">
+  View repository →
+</a>
 
 ---
 
-### GitHub
+## Development Philosophy
 
-<br />
+I believe good software is more than code that works.
 
-<div align="center">
+It's about understanding the problem, choosing the right tools, keeping the architecture maintainable and creating an experience that makes sense for the people using it.
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=marcelodfreitas&hide_border=true&background=00000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=9ca3af&dates=6b7280&currStreakNum=ffffff&sideNums=ffffff" />
-
-</div>
+```text
+Understand → Design → Build → Test → Improve
+```
 
 ---
 
 ## Let's Connect
 
-If you're working on a product, building something new, or looking for a developer to join your team, let's talk.
+I'm currently open to **Junior Full Stack and Software Developer opportunities**, as well as interesting projects where I can contribute, learn and build meaningful software.
 
 <div align="center">
 
-**Available for new opportunities and interesting projects.**
-
-<br />
-
 <a href="https://marcelo-freitas-portfolio.vercel.app/">
-Portfolio
+  <img src="https://img.shields.io/badge/Visit_my_Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
-&nbsp;&nbsp;·&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/markfreitaas/">
-LinkedIn
-</a>
-&nbsp;&nbsp;·&nbsp;&nbsp;
-<a href="https://github.com/marcelodfreitas">
-GitHub
-</a>
+
+<br /><br />
+
+<a href="https://www.linkedin.com/in/markfreitaas/">LinkedIn</a>
+  ·   <a href="https://github.com/marcelodfreitas">GitHub</a>
+  ·   <a href="https://marcelo-freitas-portfolio.vercel.app/">Portfolio</a>
 
 <br /><br />
 
